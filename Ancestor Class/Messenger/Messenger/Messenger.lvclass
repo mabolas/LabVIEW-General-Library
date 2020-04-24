@@ -104,11 +104,11 @@
 			<Item Name="Send Single Message To Specific Target.vi" Type="VI" URL="../Dynamic Dispatch/Public/Send Single Message To Specific Target.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;J!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#J!=!!?!!!4%5VF=X.F&lt;G&gt;F=CZM&gt;G.M98.T!!V.:8.T:7ZH:8)A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!-E"Q!"Y!!"=647&amp;J&lt;#"4&gt;(*B&gt;'6H?3ZM&gt;G.M98.T!"".97FM)&amp;.U=G&amp;U:7&gt;Z)%FO!!!G1(!!(A!!%1^.:8.T97&gt;F,GRW9WRB=X-!#EVF=X.B:W5A37Y!!#J!=!!?!!!4%5VF=X.F&lt;G&gt;F=CZM&gt;G.M98.T!!R.:8.T:7ZH:8)A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!=!#!!*!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!%!!!!"!!!!#1!!!!!!%!#A!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">20971648</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1074278912</Property>
 			</Item>
 		</Item>
 	</Item>
