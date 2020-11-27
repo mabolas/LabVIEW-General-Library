@@ -39,11 +39,11 @@
 		<Item Name="Buffer Self Operation.vi" Type="VI" URL="../Dynamic Dispatch/Public/Buffer Self Operation.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;$!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!5QB%982B)%^V&gt;!!!.E"Q!"Y!!"E81WFS9X6M98)A1H6G:G6S,GRW9WRB=X-!%U.J=G.V&lt;'&amp;S)%*V:G:F=C"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!-1&amp;-(2'&amp;U93"*&lt;A!W1(!!(A!!'2&gt;$;8*D&gt;7RB=C"#&gt;7:G:8)O&lt;(:D&lt;'&amp;T=Q!31WFS9X6M98)A1H6G:G6S)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!A!#1)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!)!!!!E!!!!!!"!!I!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1094713472</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1074266624</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342976000</Property>
 		</Item>
 		<Item Name="Child Inheritance.vi" Type="VI" URL="../Dynamic Dispatch/Public/Child Inheritance.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;P!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#R!=!!?!!!:&amp;U.J=G.V&lt;'&amp;S)%*V:G:F=CZM&gt;G.M98.T!!F$;'FM:#"0&gt;81!,E"Q!"Y!!"E81WFS9X6M98)A1H6G:G6S,GRW9WRB=X-!#F"B=G6O&gt;#"0&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,%"Q!"Y!!"E81WFS9X6M98)A1H6G:G6S,GRW9WRB=X-!#%.I;7RE)%FO!!!M1(!!(A!!'2&gt;$;8*D&gt;7RB=C"#&gt;7:G:8)O&lt;(:D&lt;'&amp;T=Q!*5'&amp;S:7ZU)%FO!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!#!!*!A!!?!!!$1A!!!!!!!!.#A!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!"!!!!#1!!!!!!%!#A!!!!!</Property>
