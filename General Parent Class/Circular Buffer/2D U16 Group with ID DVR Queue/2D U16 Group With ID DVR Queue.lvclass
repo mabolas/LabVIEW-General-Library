@@ -47,6 +47,15 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1082139152</Property>
 			</Item>
+			<Item Name="Flush Buffer.vi" Type="VI" URL="../Dynamic Dispatch/Public/Flush Buffer.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;H!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;:!=!!?!!!I*D*%)&amp;5R.C"(=G^V=#"8;82I)%F%)%275C"2&gt;76V:3ZM&gt;G.M98.T!!!C-E1A64%W)%&gt;S&lt;X6Q)&amp;&gt;J&gt;'AA351A2&amp;:3)&amp;&amp;V:86F)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"51(!!(A!!+#9S2#"6-49A2X*P&gt;8!A6WFU;#"*2#"%6F)A586F&gt;75O&lt;(:D&lt;'&amp;T=Q!!)4*%)&amp;5R.C"(=G^V=#"8;82I)%F%)%275C"2&gt;76V:3"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
+			</Item>
 		</Item>
 	</Item>
 	<Item Name="Statiac Dispatch" Type="Folder">
