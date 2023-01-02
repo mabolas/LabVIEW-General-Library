@@ -76,9 +76,6 @@
 				<Item Name="Wait at Rendezvous.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/Wait at Rendezvous.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="FPGA Reference.lvclass" Type="LVClass" URL="../../SPIM Library/Hardware Actors/Parents/FPGA Reference/FPGA Reference.lvclass"/>
-			<Item Name="Multi SPIM UI Console.lvclass" Type="LVClass" URL="../../Individual Projects/NTHU Brain Center/Actors/Multi SPIM UI Console/Multi SPIM UI Console.lvclass"/>
-			<Item Name="System Initialize.vi" Type="VI" URL="../../Individual Projects/NTHU Brain Center/SubVI/System Initialize.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
