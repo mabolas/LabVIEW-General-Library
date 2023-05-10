@@ -14,8 +14,17 @@
 </Property>
 	<Item Name="Dynamic Dispatch" Type="Folder">
 		<Item Name="Public" Type="Folder">
-			<Item Name="Current.vi" Type="VI" URL="../Dynamic Dispatch/Public/Current.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%Z!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#J!=!!?!!!8&amp;62B=WMA17ZD:8.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!)6'&amp;T;S"0&gt;81!!#J!=!!?!!!3%%FU:8*B&gt;'^S,GRW9WRB=X-!!!R*&gt;'6S982P=C"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!+%"Q!"Y!!")1382F=G&amp;U&lt;X)O&lt;(:D&lt;'&amp;T=Q!!#UFU:8*B&gt;'^S)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!A!!?!!!$1A!!!!!!!!)!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#1!!!!!</Property>
+			<Item Name="Current Child Task.vi" Type="VI" URL="../Dynamic Dispatch/Public/Current Child Task.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!((!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!.E"Q!"Y!!"=66'&amp;T;S""&lt;G.F=X2P=CZM&gt;G.M98.T!"6$&gt;8*S:7ZU)&amp;2F=GVJ&lt;G&amp;M)&amp;2B=WM!.%"Q!"Y!!"=66'&amp;T;S""&lt;G.F=X2P=CZM&gt;G.M98.T!"*$&lt;WVQ&lt;X.J&gt;'5A6'&amp;T;S"0&gt;81!!$B!=!!?!!!B(U.P&lt;8"P=WFU:3"598.L)%FU:8*B&gt;'^S,GRW9WRB=X-!$%FU:8*B&gt;'^S)'^V&gt;!!!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!-E"Q!"Y!!"=66'&amp;T;S""&lt;G.F=X2P=CZM&gt;G.M98.T!"&amp;$&lt;WVQ&lt;X.J&gt;'5A6'&amp;T;S"*&lt;A!W1(!!(A!!)2^$&lt;WVQ&lt;X.J&gt;'5A6'&amp;T;S"*&gt;'6S982P=CZM&gt;G.M98.T!!N*&gt;'6S982P=C"J&lt;A"5!0!!$!!$!!1!"1!'!!=!"Q!(!!=!#!!(!!E!#A)!!(A!!!U)!!!*!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!1!!!!E!!!!!!"!!M!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+			</Item>
+			<Item Name="Next Child Task.vi" Type="VI" URL="../Dynamic Dispatch/Public/Next Child Task.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(Y!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$U!%!!F$;'FM:#",:8E!.%"Q!"Y!!"=66'&amp;T;S""&lt;G.F=X2P=CZM&gt;G.M98.T!"*$&lt;WVQ&lt;X.J&gt;'5A6'&amp;T;S"0&gt;81!!%:!=!!?!!!B(U.P&lt;8"P=WFU:3"598.L)%FU:8*B&gt;'^S,GRW9WRB=X-!'U.P&lt;8"P=WFU:3"598.L)%FU:8*B&gt;'^S)'^V&gt;!!Q1(!!(A!!&amp;R6598.L)%&amp;O9W6T&gt;'^S,GRW9WRB=X-!$E.I;7RE)&amp;2B=WMA4X6U!!!%!!!!#E!B"%RB=X1!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!-E"Q!"Y!!"=66'&amp;T;S""&lt;G.F=X2P=CZM&gt;G.M98.T!"&amp;$&lt;WVQ&lt;X.J&gt;'5A6'&amp;T;S"*&lt;A"'1(!!(A!!)2^$&lt;WVQ&lt;X.J&gt;'5A6'&amp;T;S"*&gt;'6S982P=CZM&gt;G.M98.T!"J$&lt;WVQ&lt;X.J&gt;'5A6'&amp;T;S"*&gt;'6S982P=C"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!(!!A!#1!)!!I!#!!,!!Q#!!"Y!!!.#!!!#1!!!!E!!!#.#Q!!#1!!!!!!!!!*!!!!!!!!!!A!!!!!!!!!#!!!!*!!!!!!!1!.!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
@@ -23,14 +32,14 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
 			</Item>
-			<Item Name="Next.vi" Type="VI" URL="../Dynamic Dispatch/Public/Next.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;P!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!#E!B"%RB=X1!!#Z!=!!?!!!8&amp;62B=WMA17ZD:8.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!.4G6Y&gt;#"598.L)%^V&gt;!!K1(!!(A!!%B"*&gt;'6S982P=CZM&gt;G.M98.T!!!-382F=G&amp;U&lt;X)A&lt;X6U!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!I1(!!(A!!&amp;R6598.L)%&amp;O9W6T&gt;'^S,GRW9WRB=X-!"V2B=WMA37Y!+%"Q!"Y!!")1382F=G&amp;U&lt;X)O&lt;(:D&lt;'&amp;T=Q!!#UFU:8*B&gt;'^S)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"Q!(!!=!"Q!)!!=!#1!+!A!!?!!!$1A!!!E!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!"!!!!#1!!!!!!%!#Q!!!!!</Property>
+			<Item Name="Next Terminal Task.vi" Type="VI" URL="../Dynamic Dispatch/Public/Next Terminal Task.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(*!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!,E"Q!"Y!!"=66'&amp;T;S""&lt;G.F=X2P=CZM&gt;G.M98.T!!V/:8BU)&amp;2B=WMA4X6U!$2!=!!?!!!8&amp;62B=WMA17ZD:8.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!31W^N='^T;82F)&amp;2B=WMA4X6U!!!Y1(!!(A!!)2^$&lt;WVQ&lt;X.J&gt;'5A6'&amp;T;S"*&gt;'6S982P=CZM&gt;G.M98.T!!R*&gt;'6S982P=C"P&gt;81!!!J!)12-98.U!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!S1(!!(A!!&amp;R6598.L)%&amp;O9W6T&gt;'^S,GRW9WRB=X-!%5.P&lt;8"P=WFU:3"598.L)%FO!$:!=!!?!!!B(U.P&lt;8"P=WFU:3"598.L)%FU:8*B&gt;'^S,GRW9WRB=X-!#UFU:8*B&gt;'^S)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"Q!)!!A!#!!*!!A!#A!,!A!!?!!!$1A!!!E!!!!*!!!!D1M!!!E!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!"!!!!#1!!!!!!%!$!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074274816</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 			</Item>
 		</Item>
 	</Item>
