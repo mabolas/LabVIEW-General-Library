@@ -76,11 +76,11 @@
 			<Item Name="Wait Single Element Notification.vi" Type="VI" URL="../Dynamic Dispatch/Public/Wait Single Element Notification.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;I!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#&amp;2J&lt;76P&gt;81`!!!81!1!%%EW.#"/&lt;X2J:GFD982J&lt;WY!!#J!=!!?!!!3%%ZP&gt;'FG;76S,GRW9WRB=X-!!!R/&lt;X2J:GFF=C"P&gt;81!!""!-0````]'5X2S;7ZH!!!%!!!!&amp;U!+!""%1EQA4G^U;7:J9W&amp;U;7^O!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!!Q!(6'FN:7^V&gt;!!I1(!!(A!!%B"/&lt;X2J:GFF=CZM&gt;G.M98.T!!!,4G^U;7:J:8)A;7Y!6!$Q!!Q!!Q!%!!5!"A!(!!A!#1!)!!I!#Q!)!!Q#!!"Y!!!.#!!!#1!!!!E!!!#.#Q!!#1!!!!!!!!!*!!!!!!!!!!A!!!!)!!!!!!!!!*!!!!!!!1!.!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1074278912</Property>
 			</Item>
 		</Item>
 	</Item>
