@@ -42,9 +42,9 @@
 				<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 			</Item>
 			<Item Name="Read Config File.vi" Type="VI" URL="../Dynamic Dispatch/Protected/Read Config File.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'.!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"N!&amp;A!"#W.P&lt;G:J:S"E982B!!:S:7:O&gt;7U!!%-!]&lt;GGFI1!!!!#%5Z*8UR71W^O:GFH,GRW&lt;'FC&amp;E.P&lt;G:J:S"%982B)&amp;*F:EZV&lt;3ZD&gt;'Q!%E"Q!!%!!1!&amp;!V*F:A![1(!!(A!!'BB'=G^O&gt;#"197ZF&lt;#".:7ZV,GRW9WRB=X-!!"2'=G^O&gt;#"197ZF&lt;#".:7ZV)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Y1(!!(A!!'BB'=G^O&gt;#"197ZF&lt;#".:7ZV,GRW9WRB=X-!!".'=G^O&gt;#"197ZF&lt;#".:7ZV)'FO!&amp;1!]!!-!!-!"!!'!!=!"!!%!!1!"!!)!!1!"!!*!Q!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#A!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'.!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"N!&amp;A!"#W.P&lt;G:J:S"E982B!!:S:7:O&gt;7U!!%-!]&lt;GGFI1!!!!#%5Z*8UR71W^O:GFH,GRW&lt;'FC&amp;E.P&lt;G:J:S"%982B)&amp;*F:EZV&lt;3ZD&gt;'Q!%E"Q!!%!!1!&amp;!V*F:A![1(!!(A!!'BB'=G^O&gt;#"197ZF&lt;#".:7ZV,GRW9WRB=X-!!"2'=G^O&gt;#"197ZF&lt;#".:7ZV)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Y1(!!(A!!'BB'=G^O&gt;#"197ZF&lt;#".:7ZV,GRW9WRB=X-!!".'=G^O&gt;#"197ZF&lt;#".:7ZV)'FO!&amp;1!]!!-!!-!"!!'!!=!"!!%!!1!"!!)!!1!"!!*!Q!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#3!!!!!!%!#A!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
